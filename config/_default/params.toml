@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Insert Footer"
+footer = "Made with <3 in Maldives"
 
 # Alert
 alert = false
