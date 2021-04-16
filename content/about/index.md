@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About Us"
 description: "About Us"
 date: 2021-04-17T03:04:34+05:00
 lastmod: 2021-04-17T03:04:34+05:00
-draft: true
+draft: false
 images: []
 ---
 DhivehiAI is a group of developers, engineers, researchers and academics focused on supporting technology around the Dhivehi language.
@@ -12,7 +12,7 @@ We officially kicked off on 14th April, 2021 - a date celebrated as “Dhivehi L
 
 Our key goal is sharing knowledge and experience with the community, and in doing so, hopefully serve to accelerate growth.
 
-**Also find us on:**
+Also find us on:
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhivehiAI)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhivehiai)
