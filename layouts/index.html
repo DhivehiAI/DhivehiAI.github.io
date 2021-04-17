@@ -39,12 +39,35 @@
 </section>
 {{ end }}
 
+
 {{ define "sidebar-footer" }}
-<section class="section section-sm container-fluid">
-  <div class="row justify-content-center text-center">
-    <div class="col-lg-9">
-      {{- .Content -}}
+<section class="section section-sm">
+  <div class="container">
+
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-9">
+
+        <h2 class="text-center">Recent Updates</h2>
+
+        <div class="card-list">
+          {{ $pages := union (where site.RegularPages "Section" "news") (where site.RegularPages "Section" "blog") }}
+          {{ range first 4 $pages.ByLastmod.Reverse }}
+            <div class="card">
+              <div class="card-body">
+                <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+                <p>{{ .Params.lead | safeHTML }}</p>
+                {{ partial "main/blog-meta.html" . -}}
+              </div>
+            </div>
+          {{ end -}}
+        </div>
+
+        Visit our <a href='{{ "blog" | relURL}}' class="link">Blog</a> or <a href='{{ "news" | relURL}}' class="link">News</a> for more updates!
+
+      </div>
     </div>
+
   </div>
 </section>
 {{ end }}
+
