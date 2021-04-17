@@ -1,18 +1,25 @@
 [[docs]]
-  name = "Prologue"
+  name = "Technologies"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "technologies"
+  url = "/docs/technologies/"
 
 [[docs]]
-  name = "Help"
+  name = "Tools"
   weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "tools"
+  url = "/docs/tools/"
+
+
+[[docs]]
+  name = "External Resources"
+  weight = 70
+  identifier = "external"
+  url = "/docs/external/"
 
 [[main]]
   name = "Resources"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/technologies/introduction/"
   weight = 9
 
 [[main]]
