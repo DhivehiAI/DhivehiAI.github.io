@@ -4,6 +4,12 @@
   identifier = "technologies"
   url = "/docs/technologies/"
 
+ [[docs]]
+  name = "Datasets"
+  weight = 40
+  identifier = "datasets"
+  url = "/docs/dataset/"
+
 [[docs]]
   name = "Tools"
   weight = 60
