@@ -25,5 +25,5 @@ tba [how to contribute code]
 
 * **Donate your voice to Common Voice:**
   A number of core technologies depend on the data from
-  the [Mozilla CommonVoice project](https://commonvoice.mozilla.org/dv).
+  the [Mozilla Common Voice project](https://commonvoice.mozilla.org/dv).
   Visit the website, register a profile and begin contributing!

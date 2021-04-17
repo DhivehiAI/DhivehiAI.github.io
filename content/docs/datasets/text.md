@@ -13,3 +13,8 @@ weight: 300
 toc: true
 ---
 
+### Quran Translation
+
+Dhivehi Quran translation source files.
+
+[Link to GitHub](https://github.com/kudanai/Quran-Translation)
