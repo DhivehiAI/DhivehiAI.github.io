@@ -14,7 +14,6 @@ Our key goal is sharing knowledge and experience with the community, and in doin
 
 Interested in contributing? Check out our [Contribution Guide](/contributing)
 
-
 **Get in touch!**
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhivehiAI)
