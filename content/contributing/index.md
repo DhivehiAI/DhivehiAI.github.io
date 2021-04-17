@@ -11,7 +11,7 @@ images: []
 
 There are many ways in which you could contribute to dhivehi.ai.
 
-First of all, join us on [discord](https://discord.gg/H54GQF4p) so we can all be in touch!
+First of all, join us on [discord](https://discord.gg/5ZdTHsN8Mn) so we can all be in touch!
 
 ### Contribute Knowledge
 
