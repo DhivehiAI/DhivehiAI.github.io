@@ -1,25 +1,24 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Dhivehi.ai"
+title = "dhivehi.ai"
 titleSeparator = "-"
-titleAddition = "Democratising  AI"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Dhivehi to for the next generation"
+description = "A community effort to accelerate development of tech around Dhivehi"
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
+images = ["dhivehi.png"]
+twitterSite = "dhivehiai"
+twitterCreator = "dhivehiai"
+facebookAuthor = "DhivehiAI"
+facebookPublisher = "DhivehiAI"
 ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/DhivehiAI"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/dhivehi.ai"
+schemaLogo = "dhivehiai-logo.png"
+schemaTwitter = "https://twitter.com/dhivehiai"
+schemaGitHub = "https://github.com/DhivehiAI"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -40,10 +39,10 @@ footer = "Made with <3 in Maldives"
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like dhivehi.ai? <a class=\"alert-link\" href=\"https://github.com/DhivehiAI/\">Follow us on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/DhivehiAI/DhivehiAI.github.io"
 editPage = false
 
 [options]
