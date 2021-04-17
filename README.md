@@ -13,8 +13,9 @@ Doks uses npm to centralize dependency management, making it [easy to update](ht
 ## Contributing
 
 * Create a fork of this repo
-* Refer to [Doks documentation](https://getdoks.org/tutorial/introduction/) on making changes
+* Refer below and to [Doks documentation](https://getdoks.org/tutorial/introduction/) on making changes
 * Ensure your changes run locally `npm run start`
+* Make sure there are no linting errors `npm test`
 * Create a pull request
 
 ### Creating a profile
