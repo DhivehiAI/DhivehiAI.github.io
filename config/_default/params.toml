@@ -39,10 +39,10 @@ footer = "Made with <3 in Maldives"
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like dhivehi.ai? <a class=\"alert-link\" href=\"https://github.com/DhivehiAI/\">Follow us on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/DhivehiAI/DhivehiAI.github.io"
 editPage = false
 
 [options]
