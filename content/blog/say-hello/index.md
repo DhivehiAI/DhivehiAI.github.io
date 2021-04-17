@@ -7,7 +7,7 @@ lastmod: 2021-14-04T09:19:42+01:00
 draft: false
 weight: 50
 images: []
-contributors: ["Naail Abdul Rahman"]
+contributors: ["kudanai"]
 ---
 
 Hello and welcome to dhivehi.ai! This is our first blog post
