@@ -16,5 +16,16 @@ toc: true
 
 ### Text-To-Speech
 
+[TTS Docs →]({{< relref "tts" >}})
 
-One page summary of how to start a new Doks project. [TTS Docs →]({{< relref "tts" >}})
+### Speech-To-Text
+
+[STT Docs →]({{< relref "stt" >}})
+
+### OCR
+
+[OCR Docs →]({{< relref "ocr" >}})
+
+### NLP
+
+[NLP Docs →]({{< relref "nlp" >}})
