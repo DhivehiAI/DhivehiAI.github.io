@@ -15,13 +15,14 @@ toc: true
 
 ### Dash8x Thaana-Dataset
 
-A dataset of handwritten and computer generated Thaana glyphs
+> A dataset of handwritten and computer generated Thaana glyphs
 
-[Link to GitHub](https://github.com/dash8x/Thaana-Dataset)
+* [Link to GitHub](https://github.com/dash8x/Thaana-Dataset)
 
 ### Akuru-MNIST
 
-Akuru-MNIST is a MNIST style akuru dataset for OCR (* 161 MB),
-from Sofwaths collection [here](https://github.com/Sofwath/DhivehiDatasets).
+From Sofwaths collection [here](https://github.com/Sofwath/DhivehiDatasets).
 
-[Link to Google Drive](https://drive.google.com/file/d/16LSVcNcoPmaMPTkisOned9rl61YwfZKB/view?usp=sharing)
+> Akuru-MNIST is a MNIST style akuru dataset for OCR (* 161 MB)
+
+* [Link to Google Drive](https://drive.google.com/file/d/16LSVcNcoPmaMPTkisOned9rl61YwfZKB/view?usp=sharing)

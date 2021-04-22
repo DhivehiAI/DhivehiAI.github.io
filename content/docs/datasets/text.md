@@ -15,6 +15,16 @@ toc: true
 
 ### Quran Translation
 
-Dhivehi Quran translation source files.
+> Dhivehi Quran translation source files.
 
-[Link to GitHub](https://github.com/kudanai/Quran-Translation)
+* [Link to GitHub](https://github.com/kudanai/Quran-Translation)
+
+### Leipzig University Corpora Collection
+
+> The Leipzig Corpora Collection provides different tools and
+> data for download, which are protected by copyright.
+> For more details please refer to our
+> [terms of usage](https://wortschatz.uni-leipzig.de/en/usage).
+
+* [Corpora Stats](https://cls.corpora.uni-leipzig.de/en/div_newscrawl_2015_300K/)
+* [Link to Website](https://wortschatz.uni-leipzig.de/en/download/Dhivehi)
