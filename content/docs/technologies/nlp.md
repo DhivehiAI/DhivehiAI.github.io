@@ -16,12 +16,10 @@ toc: true
 
 ### dhivehi_nlp
 
-> Python library with various natural language processing tools for Dhivehi. Modules include tokenizer, stopwords, stemmer, language models, dictionary, corpus, trigram similarity and tagger. 
-> 
+> Python library with various natural language processing tools for Dhivehi. Modules include tokenizer, stopwords, stemmer, language models, dictionary, corpus, trigram similarity and tagger.
+>
 > Language models module also includes a bigram language model based on a news dataset.
-> 
-> [Source Code](https://github.com/mismaah/dhivehi_nlp)
-> 
-> [Demo](https://dhivehi-nlp.herokuapp.com/)
-> 
-> [Documentation](https://dhivehi-nlp.herokuapp.com/docs/index.html)
+
+* [Source Code](https://github.com/mismaah/dhivehi_nlp)
+* [Demo](https://dhivehi-nlp.herokuapp.com/)
+* [Documentation](https://dhivehi-nlp.herokuapp.com/docs/index.html)
