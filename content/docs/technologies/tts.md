@@ -14,6 +14,7 @@ toc: true
 ---
 
 
-### Text-To-Speech
+### Dhivehi.ai TTS Demo
 
-TBA: More infor about TTS.
+> The Demo and pretrained models for Dhivehi.ai's pre-trained TTS Models
+> * [GitHub Repo](https://github.com/DhivehiAI/TTS-Demos)
