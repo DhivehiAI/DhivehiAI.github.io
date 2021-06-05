@@ -18,3 +18,8 @@ toc: true
 
 > The Demo and pretrained models for Dhivehi.ai's pre-trained TTS Models
 > * [GitHub Repo](https://github.com/DhivehiAI/TTS-Demos)
+
+**Projects Using this:**
+
+* Reader tool on [dhivehi.mv](https://dhivehi.mv/tools/tts/)
+* Reader tool from [aliaafee](https://github.com/aliaafee) on [GitHub](https://github.com/aliaafee/dhivehi-reader)
