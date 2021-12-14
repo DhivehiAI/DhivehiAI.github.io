@@ -2,7 +2,8 @@
 Download latest data Presidential Speeches Dhivehi speech data - data collected from PO MV (* 1 GB). Extracted and processed by Sofwath as part of a collection of Dhivehi datasets found here.
 Download from Google Drive</description></item><item><title>Text Datasets</title><link>https://dhivehi.ai/docs/datasets/text/</link><pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate><guid>https://dhivehi.ai/docs/datasets/text/</guid><description>Quran Translation Dhivehi Quran translation source files.
 Link to GitHub Leipzig University Corpora Collection The Leipzig Corpora Collection provides different tools and data for download, which are protected by copyright. For more details please refer to our terms of usage.
-Corpora Stats Link to Website</description></item><item><title>OCR Datasets</title><link>https://dhivehi.ai/docs/datasets/ocr/</link><pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate><guid>https://dhivehi.ai/docs/datasets/ocr/</guid><description>Dash8x Thaana-Dataset A dataset of handwritten and computer generated Thaana glyphs
+Corpora Stats Link to Website Sofwaths sentence data set speech text data for common voice
+Link to GitHub</description></item><item><title>OCR Datasets</title><link>https://dhivehi.ai/docs/datasets/ocr/</link><pubDate>Tue, 06 Oct 2020 08:49:31 +0000</pubDate><guid>https://dhivehi.ai/docs/datasets/ocr/</guid><description>Dash8x Thaana-Dataset A dataset of handwritten and computer generated Thaana glyphs
 Link to GitHub Akuru-MNIST From Sofwaths collection here.
 Akuru-MNIST is a MNIST style akuru dataset for OCR (* 161 MB)
 Link to Google Drive</description></item></channel></rss>
