@@ -23,3 +23,4 @@ toc: true
 
 * Reader tool on [dhivehi.mv](https://dhivehi.mv/tools/tts/)
 * Reader tool from [aliaafee](https://github.com/aliaafee) on [GitHub](https://github.com/aliaafee/dhivehi-reader)
+* HTTP server implementation from [ashraq1455](https://github.com/ashraq1455/DhivehiTTS-http)
