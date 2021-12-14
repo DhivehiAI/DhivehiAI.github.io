@@ -28,3 +28,9 @@ toc: true
 
 * [Corpora Stats](https://cls.corpora.uni-leipzig.de/en/div_newscrawl_2015_300K/)
 * [Link to Website](https://wortschatz.uni-leipzig.de/en/download/Dhivehi)
+
+### Sofwaths sentence data set
+
+> speech text data for common voice
+
+* [Link to GitHub](https://github.com/Sofwath/dv_speech_text_data/)
