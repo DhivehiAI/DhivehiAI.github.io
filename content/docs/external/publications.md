@@ -20,7 +20,8 @@ toc: true
 * [Thaana](https://en.wikipedia.org/wiki/Thaana)
 * [Thaana (Unicode Block)](https://en.wikipedia.org/wiki/Thaana_(Unicode_block))
 
-### r12a Coverage of Dhivehi/Thaana
+### Specifications and Documentation on Thaana
 
-> This page brings together basic information about the Thaana script and its use for the Maldivian language, Dhivehi. It aims to provide a brief, descriptive summary of the modern, printed orthography and typographic features, and to advise how to write Dhivehi using Unicode.
-> * [Link to documentation](https://r12a.github.io/scripts/thaana/)
+* [r12a](https://r12a.github.io/scripts/thaana/)
+* [ScriptSource](https://scriptsource.org/cms/scripts/page.php?item_id=wrSys_detail_phon&key=dv-Thaa)
+* [ThatMaldivesBlog](https://thatmaldivesblog.wordpress.com/2016/09/04/dhivehi-lesson-1-script-and-pronunciation/)
