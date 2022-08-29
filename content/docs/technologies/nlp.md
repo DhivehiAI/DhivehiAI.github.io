@@ -21,5 +21,5 @@ toc: true
 > Language models module also includes a bigram language model based on a news dataset.
 
 * [Source Code](https://github.com/mismaah/dhivehi_nlp)
-* [Demo](https://dhivehi-nlp.herokuapp.com/)
-* [Documentation](https://dhivehi-nlp.herokuapp.com/docs/index.html)
+* [Demo](https://dhivehi-nlp.mismaah.com/)
+* [Documentation](https://dhivehi-nlp.mismaah.com/docs/index.html)
